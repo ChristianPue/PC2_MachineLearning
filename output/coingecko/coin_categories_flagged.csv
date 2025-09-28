@@ -1,0 +1,34 @@
+coin_name,coingecko_id,categories,keep
+algorand,algorand,"['Smart Contract Platform', 'Layer 1 (L1)', 'Algorand Ecosystem', 'Real World Assets (RWA)', 'Alleged SEC Securities', 'DWF Labs Portfolio', 'Multicoin Capital Portfolio', 'Proof of Stake (PoS)', 'GMCI Layer 1 Index', 'GMCI Index', 'Made in USA', 'Coinbase 50 Index']",True
+apecoin,apecoin,"['Gaming (GameFi)', 'NFT', 'Animoca Brands Portfolio', 'Gaming Blockchains', 'Gaming Governance Token', 'Gaming Utility Token', 'Andreessen Horowitz (a16z) Portfolio', 'ApeChain Ecosystem', 'Airdropped Tokens by NFT Projects', 'Coinbase 50 Index', 'Governance']",True
+avalanche-2,avalanche-2,"['Smart Contract Platform', 'Layer 1 (L1)', 'Avalanche Ecosystem', 'Proof of Stake (PoS)', 'DragonFly Capital Portfolio', 'DeFiance Capital Portfolio', 'Andreessen Horowitz (a16z) Portfolio', 'GMCI Layer 1 Index', 'GMCI 30 Index', 'Galaxy Digital Portfolio', 'GMCI Index', 'Polychain Capital Portfolio', 'World Liberty Financial Portfolio', 'Made in USA', 'Coinbase 50 Index']",True
+axie-infinity,,[],False
+binance-usd,,[],False
+chain-2,,[],False
+chiliz,chiliz,"['Smart Contract Platform', 'Sports', 'NFT', 'Layer 1 (L1)', 'Ethereum Ecosystem', 'Alleged SEC Securities', 'Chiliz Ecosystem', 'YZi Labs (Prev. Binance Labs) Portfolio', 'Coinbase 50 Index']",False
+cosmos,,[],False
+crypto-com-chain,,[],False
+dai,dai,"['Stablecoins', 'Decentralized Finance (DeFi)', 'USD Stablecoin', 'Ethereum Ecosystem', 'Crypto-backed Stablecoin', 'Fiat-backed Stablecoin']",False
+filecoin,filecoin,"['Infrastructure', 'Smart Contract Platform', 'Storage', 'Layer 1 (L1)', 'DePIN', 'Alleged SEC Securities', 'Pantera Capital Portfolio', 'GMCI DePIN Index', 'GMCI 30 Index', 'Sequoia Capital Portfolio', 'Blockchain Capital Portfolio', 'GMCI Index', 'Made in USA']",True
+flow,flow,"['Smart Contract Platform', 'Sports', 'NFT', 'Layer 1 (L1)', 'Animoca Brands Portfolio', 'Alleged SEC Securities', 'Multicoin Capital Portfolio', 'Proof of Stake (PoS)', 'Flow Ecosystem', 'Andreessen Horowitz (a16z) Portfolio']",False
+frax,,[],False
+ftx-token,,[],False
+hedera-hashgraph,,[],False
+internet-computer,internet-computer,"['Artificial Intelligence (AI)', 'Infrastructure', 'Smart Contract Platform', 'Layer 1 (L1)', 'Ethereum Ecosystem', 'Internet Computer Ecosystem', 'Base Ecosystem', 'Alleged SEC Securities', 'Multicoin Capital Portfolio', 'Layer 0 (L0)', 'Andreessen Horowitz (a16z) Portfolio', 'GMCI Layer 1 Index', 'GMCI 30 Index', 'Blockchain Capital Portfolio', 'GMCI Index', 'Polychain Capital Portfolio', 'Coinbase 50 Index', 'Governance']",True
+leo-token,,[],False
+lido-dao,,[],False
+matic-network,,[],False
+near,linear,"['Decentralized Exchange (DEX)', 'Exchange-based Tokens', 'Decentralized Finance (DeFi)', 'Yield Farming', 'BNB Chain Ecosystem', 'Harmony Ecosystem', 'Ethereum Ecosystem', 'Real World Assets (RWA)', 'Binance Launchpad', 'Alameda Research Portfolio']",True
+okb,okb,"['Exchange-based Tokens', 'Centralized Exchange (CEX) Token', 'Ethereum Ecosystem', 'Sora Ecosystem', 'OKT Chain Ecosystem', 'GMCI 30 Index', 'GMCI Index', 'Made in China']",True
+polkadot,polkadot,"['Smart Contract Platform', 'Polkadot Ecosystem', 'BNB Chain Ecosystem', 'Arbitrum Ecosystem', 'Ethereum Ecosystem', 'Optimism Ecosystem', 'Base Ecosystem', 'Proof of Stake (PoS)', 'Layer 0 (L0)', 'Pantera Capital Portfolio', 'GMCI 30 Index', 'GMCI Index', 'Made in USA', 'Coinbase 50 Index', 'Governance']",True
+quant-network,,[],False
+shiba-inu,,[],False
+solana,solana,"['Smart Contract Platform', 'Solana Ecosystem', 'Layer 1 (L1)', 'Alleged SEC Securities', 'FTX Holdings', 'Multicoin Capital Portfolio', 'Proof of Stake (PoS)', 'Alameda Research Portfolio', 'Andreessen Horowitz (a16z) Portfolio', 'GMCI Layer 1 Index', 'GMCI 30 Index', 'Delphi Ventures Portfolio', 'GMCI Index', 'Polychain Capital Portfolio', 'Made in USA', 'Coinbase 50 Index']",True
+staked-ether,,[],False
+terra-luna,,[],False
+tezos,tezos,"['Smart Contract Platform', 'Layer 1 (L1)', 'Tezos Ecosystem', 'Proof of Stake (PoS)', 'GMCI Layer 1 Index', 'GMCI Index', 'Polychain Capital Portfolio', 'Made in USA', 'Coinbase 50 Index']",True
+the-sandbox,,[],False
+uniswap,uniswap,"['Decentralized Exchange (DEX)', 'Exchange-based Tokens', 'Decentralized Finance (DeFi)', 'Yield Farming', 'Automated Market Maker (AMM)', 'BNB Chain Ecosystem', 'Avalanche Ecosystem', 'Polygon Ecosystem', 'Near Protocol Ecosystem', 'Gnosis Chain Ecosystem', 'Harmony Ecosystem', 'Arbitrum Ecosystem', 'Ethereum Ecosystem', 'Optimism Ecosystem', 'Paradigm Portfolio', 'Coinbase Ventures Portfolio', 'Index Coop Defi Index', 'Andreessen Horowitz (a16z) Portfolio', 'Energi Ecosystem', 'Sora Ecosystem', 'Huobi ECO Chain Ecosystem', 'GMCI DeFi Index', 'GMCI 30 Index', 'Blockchain Capital Portfolio', 'GMCI Index', 'Polychain Capital Portfolio', 'Made in USA', 'Unichain Ecosystem', 'Coinbase 50 Index', 'Governance']",True
+usd-coin,,[],False
+vechain,vechain,"['Internet of Things (IOT)', 'Smart Contract Platform', 'Layer 1 (L1)', 'VeChain Ecosystem', 'Made in China']",True
+wrapped-bitcoin,wrapped-bitcoin,"['Crypto-Backed Tokens', 'Tokenized BTC', 'BNB Chain Ecosystem', 'Wrapped-Tokens', 'Solana Ecosystem', 'Avalanche Ecosystem', 'Ethereum Ecosystem', 'Optimism Ecosystem', 'Aptos Ecosystem', 'Base Ecosystem', 'FTX Holdings', 'Osmosis Ecosystem', 'Berachain Ecosystem', 'Telos Ecosystem', 'Sonic Ecosystem', 'Sei Network Ecosystem', 'World Liberty Financial Portfolio', 'Swellchain Ecosystem', 'Soneium Ecosystem', 'Unichain Ecosystem']",True
